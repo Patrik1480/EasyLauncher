@@ -1,0 +1,46 @@
+[1213/203446.529:INFO:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[1213/203446.992:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1213/203447.128:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?uilel=3&service=youtube&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Dpassive%26next%3D%252Fsignin_passive%26hl%3Den&hl=en' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/?gl=CH (0)
+[1213/203447.161:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1213/203447.199:INFO:CONSOLE(1732)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflT7n9fz/desktop_polymer.js (1732)
+[1213/203447.199:INFO:CONSOLE(1732)] "chrome.loadTimes() is deprecated, instead use standardized API: Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflT7n9fz/desktop_polymer.js (1732)
+[1213/203447.199:INFO:CONSOLE(1732)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflT7n9fz/desktop_polymer.js (1732)
+[1213/203447.708:INFO:CONSOLE(1849)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflT7n9fz/desktop_polymer.js (1849)
+[1213/203447.772:INFO:CONSOLE(15)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.youtube.com/yts/jsbin/network-vflNZTggj/network.js (15)
+[1213/203447.782:ERROR:quota_settings.cc(111)] Unable to compute QuotaSettings.
+[1213/203447.782:WARNING:quota_manager.cc(1625)] No storage quota provided in QuotaSettings.
+[1213/203447.960:INFO:CONSOLE(8602)] "paper-tooltip:", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflT7n9fz/desktop_polymer.js (8602)
+[1213/203447.986:INFO:CONSOLE(8602)] "paper-tooltip:", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflT7n9fz/desktop_polymer.js (8602)
+[1213/203716.313:ERROR:broker_win.cc(137)] Error sending sync broker message: Die Pipe wird gerade geschlossen. (0xE8)
+[1213/203912.425:INFO:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[1213/203912.609:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26next%3D%252Fsignin_passive%26hl%3Den%26feature%3Dpassive%26app%3Ddesktop&hl=en&passive=true' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/?gl=CH (0)
+[1213/203913.021:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1213/203913.136:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1213/203913.595:INFO:CONSOLE(1849)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflT7n9fz/desktop_polymer.js (1849)
+[1213/203913.661:INFO:CONSOLE(15)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.youtube.com/yts/jsbin/network-vflNZTggj/network.js (15)
+[1213/203913.663:ERROR:quota_settings.cc(111)] Unable to compute QuotaSettings.
+[1213/203913.663:WARNING:quota_manager.cc(1625)] No storage quota provided in QuotaSettings.
+[1213/204125.420:WARNING:spdy_session.cc(3097)] Received HEADERS for invalid stream 115
+[1213/204125.609:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.google.ch/search?q=nackt&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjg9_b6x53fAhWFDOwKHebgDNgQ_AUIDigB&biw=1907&bih=936#imgrc=KfUYg0CrRGE0vM:' was loaded over HTTPS, but requested an insecure image 'http://images.mtvnn.com/c10aa56e23d0acf4babbbb0568232dcc/960x540.jpg'. This content should also be served over HTTPS.", source: https://www.google.ch/search?q=nackt&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjg9_b6x53fAhWFDOwKHebgDNgQ_AUIDigB&biw=1907&bih=936#imgrc=KfUYg0CrRGE0vM: (0)
+[1213/204125.610:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.google.ch/search?q=nackt&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjg9_b6x53fAhWFDOwKHebgDNgQ_AUIDigB&biw=1907&bih=936#imgrc=KfUYg0CrRGE0vM:' was loaded over HTTPS, but requested an insecure image 'http://b3.woxcdn.com/pics-final-2/1ab/716/1ab716ca4eb2bc59ad7247b64754dff6.jpg'. This content should also be served over HTTPS.", source: https://www.google.ch/search?q=nackt&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjg9_b6x53fAhWFDOwKHebgDNgQ_AUIDigB&biw=1907&bih=936#imgrc=KfUYg0CrRGE0vM: (0)
+[1213/204132.214:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.google.ch/search?q=nackt&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjg9_b6x53fAhWFDOwKHebgDNgQ_AUIDigB&biw=1907&bih=936#imgrc=3X96SvZzBDNUdM:' was loaded over HTTPS, but requested an insecure image 'http://media.news.de/resources/images/d6/d1/b9730e1c9bdb1b8dbe70e738dd93.jpg'. This content should also be served over HTTPS.", source: https://www.google.ch/search?q=nackt&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjg9_b6x53fAhWFDOwKHebgDNgQ_AUIDigB&biw=1907&bih=936#imgrc=3X96SvZzBDNUdM: (0)
+[1213/204141.821:WARNING:angle_platform_impl.cc(59)] compileToBinary(228): 
+C:\fakepath(65,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(87,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1213/205925.389:INFO:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[1213/205925.869:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1213/205925.993:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26next%3D%252Fsignin_passive%26hl%3Den%26feature%3Dpassive%26app%3Ddesktop&hl=en&passive=true' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/?gl=CH (0)
+[1213/205926.035:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1213/205926.381:INFO:CONSOLE(1849)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflT7n9fz/desktop_polymer.js (1849)
+[1213/205926.491:INFO:CONSOLE(15)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.youtube.com/yts/jsbin/network-vflNZTggj/network.js (15)
+[1213/205926.499:ERROR:quota_settings.cc(111)] Unable to compute QuotaSettings.
+[1213/205926.499:WARNING:quota_manager.cc(1625)] No storage quota provided in QuotaSettings.
+[1213/205935.573:WARNING:spdy_session.cc(3097)] Received HEADERS for invalid stream 81
+[1213/205935.680:INFO:CONSOLE(22)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=buFb2vCMCEA (22)
+[1213/205936.130:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1213/205936.139:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1213/205936.234:INFO:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[1213/205937.580:INFO:CONSOLE(15)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.youtube.com/yts/jsbin/network-vflNZTggj/network.js (15)
+[1213/205939.869:INFO:CONSOLE(0)] "The resource https://r4---sn-nfpnnjvh-1gid.googlevideo.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[1213/205939.869:INFO:CONSOLE(0)] "The resource https://r4---sn-nfpnnjvh-1gid.googlevideo.com/generate_204?conn2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
