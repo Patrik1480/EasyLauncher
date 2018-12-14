@@ -1,4 +1,11 @@
 # EasyLauncher #
-A Launcher for EasyBrowse and soon more!
+This is a Launcher for Apps!
 
-Copyright Patrik Ackermann 2018
+Available Apps:
+EasyBrowse(BETA)
+
+Download here:
+patrik1480.github.io/EasyLauncher/EasyLauncher.exe
+
+
+© Patrik Ackermann 2018
