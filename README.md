@@ -2,6 +2,7 @@
 This is a Launcher for Apps!
 
 Available Apps:
+
 EasyBrowse(BETA)
 
 Download here:
